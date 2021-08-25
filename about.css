@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  figure {
+    border: 1px #cccccc solid;
+    padding: 4px;
+    margin: auto;
+    
+  }
+  
+  figcaption {
+    background-color: rgb(21, 144, 245);
+    color: white;
+    font-style: normal;
+    padding: 2px;
+    text-align: center;
+    
+  }
+  a:link {
+    text-decoration: none;
+  }
+
+  h1 {
+      color: rgb(7, 62, 104);
+     font-size: 40px;
+      text-align: center;
+     
+  }

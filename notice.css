@@ -1,0 +1,71 @@
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+  .one {
+    color: rgb(0, 0, 0);
+   
+    
+  }
+  a.note:link {
+    color: rgb(4, 6, 92);
+    text-decoration: none;
+  }
+  a.note:visited {
+    color: green;
+    text-decoration: none;
+  }
+  a.note:hover {
+    color: rgb(209, 177, 70);
+  }
+  a.note:active {
+    color: rgb(136, 16, 0);
+    text-decoration: none;
+  }
+
+  .two {
+    color: rgb(0, 0, 0);
+   
+   
+  }
+
+  a.spoken:link {
+    color: rgb(4, 6, 92);
+    text-decoration: none;
+  }
+  a.spoken:visited {
+    color: green;
+    text-decoration: none;
+  }
+  a.spoken:hover {
+    color: rgb(209, 177, 70);
+  }
+  a.spoken:active {
+    color: rgb(136, 16, 0);
+    text-decoration: none;
+  }
+
+ 
+  .three {
+    color: rgb(0, 0, 0);
+    
+   
+  }
+  .four {
+    color: rgb(0, 0, 0);
+    
+    
+  }
+  .five {
+    color: rgb(0, 0, 0);
+   position: relative;
+    
+  }

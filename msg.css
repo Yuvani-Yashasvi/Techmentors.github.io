@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(7, 62, 104);
+    font-size: 45px;
+     text-align: center;
+}
+.re {
+    opacity: 1;
+    
+    float: left;
+    margin-right: 20px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+   
+   border-radius: 15px 50px;
+    
+  }
+
+  .container {
+    position: relative;
+    width: 65%;
+    
+  }
+
+  h2 {
+    color: rgb(26, 17, 63);
+   font-size: 35px;
+    text-align: center;
+    font-family: FreeMono, monospace;
+}
+.nn {
+    color: rgb(68, 8, 8);
+}
+
+.gg {
+    color: rgb(114, 80, 7);
+}
+
+.ss {
+    color: rgb(70, 61, 61);
+}
+
+.jj {
+    color: rgb(151, 43, 0);
+}

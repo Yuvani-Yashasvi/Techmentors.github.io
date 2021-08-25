@@ -1,0 +1,63 @@
+table, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  table {
+      margin: 15px;
+      margin-right: 25px;
+  }
+  th, td {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  .ta {
+    display: flex;
+   
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .tl {
+    flex: 33.33%;
+    padding: 5px;
+    background-color: rgb(21, 144, 245) ;
+    margin: 4px;
+    text-align: center;
+    font-size:20px ;
+    font-weight: bold;
+  }
+  .social {
+      text-align: center;
+      margin-top: 35px;
+      
+      display: flex;
+  }
+
+  .colum {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  figure {
+   
+    padding: 4px;
+    margin: auto;
+    
+  }
+  
+  figcaption {
+   
+    color: rgb(0, 0, 0);
+    font-style: normal;
+    padding: 2px;
+    text-align: center;
+    
+  }
+  a:link {
+    text-decoration: none;
+  }

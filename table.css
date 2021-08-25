@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.table {
+  display: flex;
+ 
+}
+
+/* Create three equal columns that sits next to each other */
+.td {
+  flex: 33.33%;
+  padding: 3px;
+ 
+  margin: 4px;
+  text-align: center;
+}

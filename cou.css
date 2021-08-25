@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .abc {
+    display: flex;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .bcd {
+    flex: 33.33%;
+    padding: 5px;
+    height: 85%;
+  }
+
+  .yy {
+    border-radius: 15px 50px;
+  }
